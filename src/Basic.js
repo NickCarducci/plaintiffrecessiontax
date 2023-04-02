@@ -138,7 +138,13 @@ export default class Basic extends React.Component {
         </div>
         <h3>Take the politics out of government</h3>
         there is a maximum rate of people and non-from inflationary changes to
-        employment. take guns away from people who want others dead
+        employment (but we have never seen unemployment's). take guns away from
+        people who want others dead.
+        <br />
+        <br />
+        &bull;{space}Are criminal cases for the public or deceased victim?
+        <br />
+        &bull;{space}How do prostitution, pimping, and divorce courts differ?
       </div>
     );
   }
